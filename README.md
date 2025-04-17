@@ -1,3 +1,3 @@
-# Spark-2025
+# Spark 2025
 
 Project Name: Healthy Habit Helper
