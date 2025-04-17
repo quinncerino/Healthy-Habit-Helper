@@ -15,28 +15,6 @@
 
 using namespace std;
 
-    /*
-    TASKS LIST:
-    
-    1. array of tasks that are randomly generated from a set of already made tasks **DONE**
-
-    2. let user add additional tasks to the list **DONE**
-    
-    3. assign values to each task
-    
-    4. keep track of value and grow character **DONE**
-
-    5. mental health rating bar that generates a quote
-
-    6. mark task from to do to done **DONE**
-    
-    7. delete task
-    
-    8. resources input to select to display the resources available **DONE**
-
-    9. Make a menu **DONE**
-    */
-
 
 
 //select random tasks for the list
